@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716076978299",
+    "project_id": "rainbow-wings",
+    "storage_bucket": "rainbow-wings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716076978299:android:3cf226d6ee38600d77d2de",
+        "android_client_info": {
+          "package_name": "com.rainbow_wings.rainbow_wings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716076978299-at0qt8orm7p58j9aqdpiqi5a4ikannun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DyulfvhBrhs-P9QJne7XzfLUh-r7Exs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716076978299-at0qt8orm7p58j9aqdpiqi5a4ikannun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
